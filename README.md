@@ -1,2 +1,1 @@
-# Smit-Assignments
 # SMIT-Assignments
